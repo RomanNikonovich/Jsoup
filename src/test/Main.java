@@ -11,7 +11,7 @@ public class Main {
     }
 
     private static void test2() {
-        System.out.println("I'm here");
+
 
     }
 }
