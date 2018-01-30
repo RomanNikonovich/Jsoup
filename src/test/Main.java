@@ -4,8 +4,8 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("hi");
         test();
-        test2();
     }
+<<<<<<< HEAD
 
     private static void test() {
 
@@ -13,5 +13,9 @@ public class Main {
 
     private static void test2() {
         System.out.println("I'm here");
+=======
+    private static void test(){
+
+>>>>>>> parent of b83431d... commit3(develop)
     }
 }
