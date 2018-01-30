@@ -5,7 +5,6 @@ public class Main {
         System.out.println("hi");
         test();
     }
-<<<<<<< HEAD
 
     private static void test() {
 
@@ -13,9 +12,6 @@ public class Main {
 
     private static void test2() {
         System.out.println("I'm here");
-=======
-    private static void test(){
 
->>>>>>> parent of b83431d... commit3(develop)
     }
 }
