@@ -15,4 +15,7 @@ public class Main {
         System.out.println("I'm here anyway");
 
     }
+    private  static void test3(){
+        System.out.println("ky ky ....");
+    }
 }
