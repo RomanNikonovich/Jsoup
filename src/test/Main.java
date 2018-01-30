@@ -20,6 +20,7 @@ public class Main {
     private  static void test3(){
         System.out.println("ky ky ....");
 
+
         System.out.println("ky ky ....");
     }
     private  static void test4(){
